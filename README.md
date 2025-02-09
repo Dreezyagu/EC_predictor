@@ -15,11 +15,11 @@ The energy consumption is calculated using:
 For this project, consumption is calculated at 5-minute intervals.
 
 # Preprocessing Steps
-✔ Merged multiple CSV files into a single dataset \n
-✔ Converted timestamps from .NET ticks to datetime \n
-✔ Resampled data at 5-minute intervals \n
-✔ Handled missing values and selected relevant features \n
-✔ Scaled numerical features using StandardScaler \n
+✔ Merged multiple CSV files into a single dataset
+✔ Converted timestamps from .NET ticks to datetime
+✔ Resampled data at 5-minute intervals
+✔ Handled missing values and selected relevant feature
+✔ Scaled numerical features using StandardScaler
 
 # Models Used
 The following regression models were trained and compared:
